@@ -73,7 +73,7 @@ public class Main {
                     System.out.println("Месяц " + monthNumber + " принадлежит к сезону осень.");
                     break;
                 default:
-                    System.out.println("Месяца " + monthNumber + " не существует!");
+                    System.out.println("Месяца " + monthNumber + " не существует!!");
             }
         }
     }
